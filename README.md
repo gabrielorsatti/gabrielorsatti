@@ -94,9 +94,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=dark&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=0d1117&border_color=F5C518&custom_title=⚽+Match+Performance" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielorsatti&show_icons=true&theme=dark&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=0d1117&border_color=F5C518&custom_title=⚽+Match+Performance" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VOTRE_USERNAME&theme=dark&background=0d1117&border=F5C518&ring=F5C518&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F5C518&sideLabels=F5C518&dates=888888" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielorsatti&theme=dark&background=0d1117&border=F5C518&ring=F5C518&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F5C518&sideLabels=F5C518&dates=888888" height="165"/>
 
 </div>
 
