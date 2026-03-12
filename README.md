@@ -84,7 +84,7 @@
 
 ## 🎮 PENALTY SHOOTOUT — PLAY IN THE INTERACTIVE VERSION BELOW!
 
-> 🖱️ **[👉 CLICK HERE TO PLAY THE PENALTY GAME](https://[votre-username].github.io/penalty-game)**
+> 🖱️ **[👉 CLICK HERE TO PLAY THE PENALTY GAME](https://gabrielorsatti.github.io/penalty-game)**
 > 
 > *(See setup instructions below to deploy the game)*
 
