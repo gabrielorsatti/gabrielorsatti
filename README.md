@@ -3,81 +3,6 @@
 <!-- ANIMATED HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=⚽%20ECONOMIST%20FC%20⚽&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
-<!-- STADIUM CROWD CHANT -->
-<img src="https://readme-typing-svg.demolab.com?font=Oswald&size=22&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=🏆+CHAMPION+LEAGUE+ECONOMETRICS+🏆;📊+Where+Regression+Meets+The+Beautiful+Game" alt="Typing SVG" />
-
-</div>
-
----
-
-<!-- FIFA CARD STYLE -->
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║          ★ ★ ★  ECONOMIST FC  ★ ★ ★                    ║
-║                                                          ║
-║   ┌─────────────────────────────────────────────────┐   ║
-║   │                                                 │   ║
-║   │        ⚽  PLAYER CARD  ⚽                      │   ║
-║   │                                                 │   ║
-║   │   ┌──────────┐   OVERALL RATING                │   ║
-║   │   │          │                                  │   ║
-║   │   │   👤     │      ╔════╗                     │   ║
-║   │   │          │      ║ 94 ║  ECONOMIST          │   ║
-║   │   └──────────┘      ╚════╝                     │   ║
-║   │                                                 │   ║
-║   │   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━    │   ║
-║   │   PAC  88  │  ECO  97  │  R²   95               │   ║
-║   │   SHT  86  │  POL  93  │  OLS  94               │   ║
-║   │   DRI  91  │  PUB  90  │  IV   92               │   ║
-║   └─────────────────────────────────────────────────┘   ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🏟️ CHAMPION STATS CARD
-
-<div align="center">
-
-| 🏆 ACHIEVEMENT | 📊 STAT | ⚽ FOOTBALL EQUIVALENT |
-|---|---|---|
-| 📚 École d'Économie de Paris | **+97 Technique** | Riquelme-level vision |
-| 🌍 Banque Mondiale (Rome) | **+94 International** | Champions League debut |
-| 📋 Institut des Politiques Publiques | **+91 Tactique** | Pressing high block |
-| 🏦 Banque de France | **+96 Prestige** | Ligue 1 title won |
-
-</div>
-
----
-
-## ⚽ STATISTIQUES DE CHAMPION (SAISON EN COURS)
-
-<div align="center">
-
-```
-  🔵 OFFENSIVE STATS          🔴 DEFENSIVE STATS
-  ┌────────────────────┐      ┌────────────────────┐
-  │  Goals (papers)  8 │      │  Errors (bugs)   2 │
-  │  Assists (collab) 14│      │  Clean sheets   12 │
-  │  xG (expected) 7.4 │      │  Interceptions  31 │
-  │  Shots on target 87%│      │  Tackles won   89% │
-  └────────────────────┘      └────────────────────┘
-
-  📐 ECONOMETRICS STATS
-  ┌────────────────────────────────────┐
-  │  R² Score            ████████ 0.94│
-  │  p-values < 0.05     ████████ 96% │
-  │  IV instruments      ████████  47 │
-  │  Regressions scored  ████████ 312 │
-  │  DiD designs         ████████  23 │
-  │  RDD cutoffs found   ████████  11 │
-  └────────────────────────────────────┘
-```
-
 </div>
 
 ---
@@ -86,7 +11,7 @@
 
 > 🖱️ **[👉 CLICK HERE TO PLAY THE PENALTY GAME](https://gabrielorsatti.github.io/penalty-game)**
 > 
-> *(See setup instructions below to deploy the game)*
+> *(Jeu gratuit codé par mes soins)*
 
 ---
 
