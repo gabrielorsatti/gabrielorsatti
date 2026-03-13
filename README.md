@@ -7,11 +7,34 @@
 
 ---
 
-## 🎮 PENALTY SHOOTOUT — PLAY IN THE INTERACTIVE VERSION BELOW!
+## 🎮 PENALTY SHOOTOUT — JOUEZ MAINTENANT !
 
-> 🖱️ **[👉 CLICK HERE TO PLAY THE PENALTY GAME](https://gabrielorsatti.github.io/penalty-game)**
-> 
-> *(Jeu gratuit codé par mes soins)*
+<div align="center">
+
+<a href="https://gabrielorsatti.github.io/penalty-game/">
+<img src="https://img.shields.io/badge/⚽_JOUER_AU_PENALTY_SHOOTOUT-FFD23F?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Play Penalty Shootout" height="50"/>
+</a>
+
+<br/><br/>
+
+**4 niveaux de difficulté** · **3 modes de jeu** · **Barre de puissance** · **Heatmap en temps réel**
+
+<br/>
+
+<a href="https://gabrielorsatti.github.io/penalty-game/">
+<img src="https://img.shields.io/badge/🏟️_Facile-34D399?style=flat-square" alt="Facile"/>
+</a>
+<a href="https://gabrielorsatti.github.io/penalty-game/">
+<img src="https://img.shields.io/badge/⚡_Normal-FFD23F?style=flat-square&logoColor=black" alt="Normal"/>
+</a>
+<a href="https://gabrielorsatti.github.io/penalty-game/">
+<img src="https://img.shields.io/badge/🔥_Difficile-F97316?style=flat-square" alt="Difficile"/>
+</a>
+<a href="https://gabrielorsatti.github.io/penalty-game/">
+<img src="https://img.shields.io/badge/💀_Légende-F43F5E?style=flat-square" alt="Légende"/>
+</a>
+
+</div>
 
 ---
 
@@ -19,9 +42,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielorsatti&show_icons=true&theme=dark&title_color=F5C518&icon_color=F5C518&text_color=ffffff&bg_color=0d1117&border_color=F5C518&custom_title=⚽+Match+Performance" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielorsatti&theme=dark&background=0d1117&border=F5C518&ring=F5C518&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F5C518&sideLabels=F5C518&dates=888888" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielorsatti&show_icons=true&theme=dark&title_color=FFD23F&icon_color=FFD23F&text_color=ffffff&bg_color=0d1117&border_color=FFD23F&custom_title=⚽+Match+Performance" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielorsatti&theme=dark&background=0d1117&border=FFD23F&ring=FFD23F&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=FFD23F&sideLabels=FFD23F&dates=888888" height="165"/>
 
 </div>
 
@@ -55,6 +77,21 @@
   [DID] [RDD] [IV] [OLS]
         [Data]
 ```
+
+---
+
+## 🧰 STACK TECHNIQUE
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=FFD23F)
+![R](https://img.shields.io/badge/R-0d1117?style=flat-square&logo=r&logoColor=FFD23F)
+![Stata](https://img.shields.io/badge/Stata-0d1117?style=flat-square&logoColor=FFD23F)
+![Julia](https://img.shields.io/badge/Julia-0d1117?style=flat-square&logo=julia&logoColor=FFD23F)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d1117?style=flat-square&logo=latex&logoColor=FFD23F)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=FFD23F)
+
+</div>
 
 ---
 
