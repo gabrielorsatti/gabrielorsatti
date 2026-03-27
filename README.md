@@ -1,10 +1,5 @@
 <div align="center">
 
-![Bienvenue](https://raw.githubusercontent.com/gabrielorsatti/gabrielorsatti/main/TS4_GP06_OFFICIAL_02_004_1080.jpg.adapt.crop16x9.575p.jpg)
-
-### Champion de France de coding informatique 
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&duration=800&pause=2000&color=FF006E&center=true&vCenter=true&width=500&height=120&lines=6️⃣7️⃣" alt="67" />
 
 <!-- ANIMATION SVG 67 avec les mains -->
@@ -275,5 +270,4 @@
   <img src="https://komarev.com/ghpvc/?username=gabrielorsatti&color=FF006E&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
 
-</div>
 </div>
