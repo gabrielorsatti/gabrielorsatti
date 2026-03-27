@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Viral_Sticker.gif" width="400" alt="six seven 🤙" />
+<img src=".[/Viral_Sticker.gif](https://github.com/gabrielorsatti/gabrielorsatti/blob/main/Viral%20Sticker.gif)" width="400" alt="six seven 🤙" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=1500&pause=700&color=9B1B4F&center=true&vCenter=true&multiline=true&width=600&height=80&lines=gabriel+orsatti+%F0%9F%94%A5;six+seven+%E2%9C%8C%EF%B8%8F+no+cap" alt="gabriel orsatti" />
 
