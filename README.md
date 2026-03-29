@@ -31,9 +31,6 @@
 
 ---
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=48dbfb&center=true&vCenter=true&width=435&lines=%F0%9F%8E%AF+tech+stack+%F0%9F%8E%AF" />
-
 <!-- TECH STACK ICONS -->
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,latex&perline=6&theme=dark" />
