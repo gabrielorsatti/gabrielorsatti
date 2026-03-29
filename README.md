@@ -9,21 +9,6 @@
 <!-- ANIMATED WAVE DIVIDER -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
 
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielorsatti/gabrielorsatti/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielorsatti/gabrielorsatti/output/github-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/gabrielorsatti/gabrielorsatti/output/github-snake.svg" width="100%" />
-</picture>
-
-<!-- NEON BADGES BAR -->
-<p>
-  <img src="https://img.shields.io/badge/-CREATIVE-ff6b6b?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-BUILDER-feca57?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/-EXPLORER-48dbfb?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DREAMER-ff9ff3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SIX%20SEVEN-9B1B4F?style=for-the-badge&logoColor=white" />
-</p>
 
 ---
 
