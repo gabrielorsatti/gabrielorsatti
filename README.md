@@ -4,7 +4,7 @@
 <img src="https://github.com/gabrielorsatti/gabrielorsatti/raw/main/Viral%20Sticker.gif" width="400" alt="six seven 🤙" />
 
 <!-- ANIMATED TYPING - MULTI LINES -->
-<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=32&duration=1500&pause=700&color=9B1B4F&center=true&vCenter=true&multiline=true&width=620&height=90&lines=gabriel+orsatti+%F0%9F%94%A5;voici+mon+gitoube+et+mes+contributions+%E2%9C%8C%EF%B8%8F;build+%E2%80%A2+break+%E2%80%A2+repeat+%F0%9F%9A%80" alt="gabriel orsatti" />
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=32&duration=1500&pause=700&color=9B1B4F&center=true&vCenter=true&multiline=true&width=620&height=90&lines=gabriel+orsatti+%F0%9F%94%A5;....voici+mon+gitoube+et+mes+contributions+%E2%9C%8C%EF%B8%8F;build+%E2%80%A2+break+%E2%80%A2+repeat+%F0%9F%9A%80" alt="gabriel orsatti" />
 
 <!-- ANIMATED WAVE DIVIDER -->
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
