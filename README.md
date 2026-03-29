@@ -12,8 +12,6 @@
 
 ---
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F5C5A3&center=true&vCenter=true&width=435&lines=%E2%9A%A1+stats+%E2%9A%A1" />
 
 <!-- GITHUB STATS -->
 <p>
