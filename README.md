@@ -65,20 +65,6 @@
 
 ---
 
-<!-- TROPHY CASE -->
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=gabrielorsatti&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" />
-</p>
-
----
-
-<!-- VIBES SECTION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=ff9ff3&center=true&vCenter=true&width=435&lines=%F0%9F%8E%B5+vibes+%F0%9F%8E%B5" />
-
-<!-- RANDOM DEV QUOTE -->
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="70%" />
-</p>
 
 ---
 
