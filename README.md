@@ -11,9 +11,9 @@
 
 <!-- SNAKE ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabrielorsatti/gabrielorsatti/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabrielorsatti/gabrielorsatti/raw/output/github-snake.svg" />
-  <img alt="snake eating contributions" src="https://github.com/gabrielorsatti/gabrielorsatti/raw/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielorsatti/gabrielorsatti/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielorsatti/gabrielorsatti/output/github-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/gabrielorsatti/gabrielorsatti/output/github-snake.svg" width="100%" />
 </picture>
 
 <!-- NEON BADGES BAR -->
@@ -51,9 +51,16 @@
 <!-- ANIMATED HEADER -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=48dbfb&center=true&vCenter=true&width=435&lines=%F0%9F%8E%AF+tech+stack+%F0%9F%8E%AF" />
 
-<!-- TECH STACK ICONS (customize to your actual stack) -->
+<!-- TECH STACK ICONS -->
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,tailwind,git,github,vscode,figma,firebase&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,latex&perline=6&theme=dark" />
+</p>
+
+<!-- SAS / STATA / SQL (not in skillicons, using shields.io) -->
+<p>
+  <img src="https://img.shields.io/badge/SAS-0072C6?style=for-the-badge&logo=sas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stata-1A478A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -65,7 +72,7 @@
 
 ---
 
-<!-- SPOTIFY / VIBES SECTION -->
+<!-- VIBES SECTION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=ff9ff3&center=true&vCenter=true&width=435&lines=%F0%9F%8E%B5+vibes+%F0%9F%8E%B5" />
 
 <!-- RANDOM DEV QUOTE -->
@@ -75,7 +82,7 @@
 
 ---
 
-<!-- ANIMATED METRICS -->
+<!-- METRICS -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=gabrielorsatti&color=9B1B4F&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/gabrielorsatti?style=for-the-badge&color=F5C5A3&labelColor=0d0d0d&logo=github" />
