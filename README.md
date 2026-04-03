@@ -6,22 +6,6 @@
 ---
 
 
-<!-- GITHUB STATS -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielorsatti&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9B1B4F&icon_color=F5C5A3&text_color=ffffff&ring_color=ff6b6b" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielorsatti&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=9B1B4F&text_color=ffffff" height="180" />
-</p>
-
-<!-- STREAK STATS -->
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielorsatti&theme=radical&hide_border=true&background=0d0d0d&ring=9B1B4F&fire=F5C5A3&currStreakLabel=9B1B4F&sideLabels=ff6b6b&dates=48dbfb" />
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielorsatti&theme=redical&hide_border=true&bg_color=0d0d0d&color=9B1B4F&line=F5C5A3&point=ff6b6b&area=true&area_color=9B1B4F" width="95%" />
-</p>
-
 ---
 
 <!-- TECH STACK ICONS -->
