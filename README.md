@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <img src="https://metrics.lecoq.io/gabrielorsatti?base=0&base.languages=1&base.languages.sections=most-used&base.languages.indepth=1&theme=dark" alt="Languages Metrics" width="400" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=gabrielorsatti&layout=compact&theme=dark&title_color=9B1B4F&icon_color=ff6b6b&text_color=ffffff&bg_color=0d0d0d&hide_border=true" alt="Top Langs" />
 </p>
 ---
 ---
