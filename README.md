@@ -17,10 +17,9 @@
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=gabrielorsatti&theme=visual_studio_code" alt="Top Langs" />
+  <img src="https://metrics.lecoq.io/gabrielorsatti?base=0&base.languages=1&base.languages.sections=most-used&base.languages.indepth=1&theme=dark" alt="Languages Metrics" width="400" />
 </p>
 ---
-
 ---
 
 <p>
