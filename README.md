@@ -19,7 +19,6 @@
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=gabrielorsatti&theme=visual_studio_code" alt="Top Langs" />
 </p>
-
 ---
 
 ---
