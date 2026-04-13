@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielorsatti&layout=compact&theme=dark&title_color=9B1B4F&icon_color=ff6b6b&text_color=ffffff&bg_color=0d0d0d&hide_border=true" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=gabrielorsatti&theme=visual_studio_code" alt="Top Langs" />
 </p>
 
 ---
