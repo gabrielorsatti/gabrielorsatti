@@ -8,16 +8,10 @@
 
 ---
 
-Actuellement étudiant à l'**ENSAE Paris** (École Nationale de la Statistique et de l'Administration Économique) et à **Sciences Po**, mon profil s'est construit sur une formation initiale exigeante en **CPGE BL** (Lettres et Sciences Sociales). Cette triple culture me permet d'aborder la Data Science avec une compréhension profonde des enjeux économiques et sociologiques, tout en maîtrisant les outils mathématiques et informatiques de pointe.
+**ENSAE Paris**,**Sciences Po** **CPGE BL**.
 
 ---
 
-### Compétences Techniques
-
-**Statistiques et Économétrie :** Économétrie des variables qualitatives, Évaluation de politiques publiques (Causal Inference), Time Series, Double Machine Learning.
-**Machine Learning & NLP :** Topic Modeling (LDA, NMF), Word Embeddings, Classification Zero-shot, LLM Fine-tuning & Prompt Engineering.
-**Programmation :** Python (NumPy, Pandas, Scikit-learn, PyTorch), R (Tidyverse), SQL, Stata, SAS.
-**Développement Web :** React 18, TypeScript, architecture de bases de données avec Supabase.
 
 </div>
 
