@@ -1,62 +1,69 @@
 <div align="center">
 
 # Gabriel Orsatti
-### Étudiant à l'ENSAE IP Paris 🎓
+### Étudiant à l'ENSAE Paris | Double diplôme Sciences Po Paris | Ancien élève de CPGE BL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-orsatti-07146a247/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.orsatti@gmail.com)
 
 ---
 
-**Data Scientist en formation, passionné par l'économie appliquée, le NLP et l'IA.** Mon travail se situe à l'intersection de la modélisation statistique, de l'analyse de données sociales et du développement d'outils intelligents.
+Actuellement étudiant à l'**ENSAE Paris** (École Nationale de la Statistique et de l'Administration Économique) et à **Sciences Po**, mon profil s'est construit sur une formation initiale exigeante en **CPGE BL** (Lettres et Sciences Sociales). Cette triple culture me permet d'aborder la Data Science avec une compréhension profonde des enjeux économiques et sociologiques, tout en maîtrisant les outils mathématiques et informatiques de pointe.
 
 ---
 
-### 🛠️ Stack Technique
+### Compétences Techniques
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,git,github,vscode,latex&perline=6&theme=dark" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SAS-0072C6?style=for-the-badge&logo=sas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stata-1A478A?style=for-the-badge&logo=stata&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
+**Statistiques et Économétrie :** Économétrie des variables qualitatives, Évaluation de politiques publiques (Causal Inference), Time Series, Double Machine Learning.
+**Machine Learning & NLP :** Topic Modeling (LDA, NMF), Word Embeddings, Classification Zero-shot, LLM Fine-tuning & Prompt Engineering.
+**Programmation :** Python (NumPy, Pandas, Scikit-learn, PyTorch), R (Tidyverse), SQL, Stata, SAS.
+**Développement Web :** React 18, TypeScript, architecture de bases de données avec Supabase.
 
 </div>
 
 ---
 
-### 🚀 Projets Principaux
+### Projets de Recherche et Développement
 
-#### 🏋️ [Personal Gym Tracker](https://github.com/gabrielorsatti/Personnal-gym-tracker)
-Une application PWA complète (React/TS/Supabase) pour le suivi de la musculation et de la nutrition. Elle intègre un **moteur IA (Llama 3/Mistral)** qui convertit vos notes en langage naturel en données structurées.  
-*Stack : React 18, TypeScript, Supabase (RLS), OpenAI API compatible, Vite.*
+#### [Personal Gym Tracker - Application PWA & NLP](https://github.com/gabrielorsatti/Personnal-gym-tracker)
+Développement d'une application complète de suivi de performance sportive utilisant une architecture Full-Stack moderne.
+* **Moteur NLP :** Intégration de modèles Llama 3.3 et Mistral Small pour l'extraction de données structurées à partir de texte libre (français). Implémentation de parseurs spécialisés (musculation et nutrition) avec validation JSON stricte.
+* **Architecture logicielle :** Interface `StorageAdapter` permettant une transition transparente entre le stockage local (LocalStorage) et le cloud (Supabase/PostgreSQL).
+* **Frontend :** Développement sous React 18 et TypeScript, utilisation de Recharts pour la visualisation dynamique des courbes de progression (volume, intensité, records).
 
-#### 🏛️ [Cadrage politique des VSS à l'Assemblée Nationale](https://github.com/gabrielorsatti/projet_eco_socio)
-Analyse sociologique et data de 10 000 prises de parole parlementaires (2017-2025). Étude de l'instrumentalisation des violences sexistes et sexuelles (fémonationalisme) via des modèles de **Topic Modeling (GuidedLDA)** et des **Embeddings CamemBERT**.
+#### [Cadrage politique des VSS à l'Assemblée Nationale](https://github.com/gabrielorsatti/projet_eco_socio)
+Analyse quantitative des débats parlementaires (2017-2025) sur les violences sexistes et sexuelles (10 000 prises de parole).
+* **Topic Modeling :** Utilisation de **GuidedLDA** avec mots-graines (seed words) pour forcer l'émergence de thématiques spécifiques liées au "fémonationalisme".
+* **Analyse Sémantique :** Utilisation de **Sentence-CamemBERT-Large** pour générer des embeddings et calculer la similarité cosinus entre les blocs idéologiques.
+* **Classification multi-méthodes :** Comparaison de performances entre Lexiques pondérés, Zero-shot NLI et LLM (Zero/Few-shot) via un Gold Standard annoté manuellement.
 
-#### 🎓 [Effet causal des bourses sur la réussite](https://github.com/gabrielorsatti/Machine-Learning-for-Econometrics)
-Projet d'économétrie utilisant le **Double Machine Learning (DML)** et le **Double Post-Lasso** pour identifier l'impact causal de l'attribution des bourses sur le décrochage et la diplomation étudiante.
+#### [Machine Learning for Econometrics - Évaluation Causale](https://github.com/gabrielorsatti/Machine-Learning-for-Econometrics)
+Étude de l'effet causal de l'obtention d'une bourse sur le succès académique (Dataset UCI).
+* **Double Machine Learning (DML) :** Implémentation des estimateurs PLR (Partially Linear Regression) et IRM (Interactive Regression Model) selon Chernozhukov (2018).
+* **Identification :** Utilisation du **Double Post-Lasso** (Belloni et al.) pour la sélection de variables de contrôle dans un contexte de haute dimensionnalité.
+* **Inférence Robuste :** Estimation de l'ATE via des scores AIPW (Augmented IPW) et analyse de sensibilité par tests de permutation.
 
-#### 🗳️ [Thematic Evolution of Electoral Manifestos (1973-1993)](https://github.com/gabrielorsatti/ensae-nlp-archelec)
-Analyse longitudinale du corpus Archelec (20 000 documents). Utilisation du NLP pour tracer l'évolution du discours politique français, du réformisme des années 70 au nationalisme des années 90.  
-*Méthodes : NMF, t-SNE, Zero-shot classification (BERT).*
+#### [Évolution thématique des professions de foi électorales (1973-1993)](https://github.com/gabrielorsatti/ensae-nlp-archelec)
+Analyse longitudinale du corpus Archelec (20 000 documents) couvrant cinq législatures.
+* **Pipeline NLP :** Prétraitement lourd des données OCR, catégorisation socio-professionnelle automatique via un classifieur Zero-shot (XLM-RoBERTa).
+* **Méthodes :** Réduction de dimensionnalité via **t-SNE** pour la cartographie sémantique et analyse des "Fighting Words" (Log-odds ratio) pour identifier les lexiques partisans.
+* **Validation Économique :** Corrélation entre la fréquence des thématiques liées au chômage et les données réelles de l'INSEE par département.
 
-#### 🌍 [Environmental Regulation & Infant Mortality in India](https://github.com/gabrielorsatti/Effect_of_environmental_regulation_on_Air_Pollution_and_Infant_Mortality)
-Réplication et extension (Stata) de l'étude de Hanna & Greenstone (2014). Analyse critique via les récents développements sur les **Two-Way Fixed Effects (TWFE)** et les effets de traitement hétérogènes.
+#### [Réglementation Environnementale et Mortalité Infantile en Inde](https://github.com/gabrielorsatti/Effect_of_environmental_regulation_on_Air_Pollution_and_Infant_Mortality)
+Réplication et extension économétrique de l'article de Hanna et Greenstone (2014) sous Stata.
+* **Économétrie Spatiale :** Analyse des politiques SCAP et mandats sur les pots catalytiques.
+* **Critique Méthodologique :** Réévaluation de la stratégie empirique à l'aune de la littérature récente sur les **Two-Way Fixed Effects (TWFE)** et les effets de traitement hétérogènes (De Chaisemartin & D'Haultfœuille).
 
-#### 📉 [Analyse de la Dette Publique Française (2009-2023)](https://github.com/gabrielorsatti/Python_Debt_regression)
-Étude économétrique de l'endettement de l'État via des proxys macroéconomiques (chômage, CAC 40, natalité). Utilisation de l'algorithme PELT pour la détection de ruptures et comparaison de modèles ML (AdaBoost, RF).
+#### [Analyse Économétrique de la Dette Publique Française (2009-2023)](https://github.com/gabrielorsatti/Python_Debt_regression)
+Modélisation de la dynamique d'endettement à travers des indicateurs de l'économie réelle.
+* **Détection de Ruptures :** Application de l'algorithme **PELT** (librairie `ruptures`) pour identifier les changements de régime structurels dans la gestion de la dette.
+* **Machine Learning :** Comparaison de modèles prédictifs (AdaBoost, Random Forest, RLM) avec évaluation par RMSE en validation croisée temporelle.
 
 ---
 
 <div align="center">
 
-### 📊 Statistiques GitHub
+### Statistiques GitHub
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=gabrielorsatti&color=9B1B4F&style=for-the-badge&label=PROFILE+VIEWS" />
