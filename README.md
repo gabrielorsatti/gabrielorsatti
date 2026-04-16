@@ -1,14 +1,14 @@
 <div align="center">
 
 # Gabriel Orsatti
-### Étudiant à l'ENSAE Paris | Double diplôme Sciences Po Paris | Ancien élève de CPGE BL
+### Étudiant ENSAE Paris - Sciences Po Paris 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-orsatti-07146a247/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.orsatti@gmail.com)
 
 ---
 
-**ENSAE Paris**,**Sciences Po** **CPGE BL**.
+**ENSAE Paris** - **Sciences Po** - **CPGE BL**.
 
 ---
 
