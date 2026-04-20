@@ -20,10 +20,15 @@
 ### Projets de Recherche et Développement
 
 #### [Personal Gym Tracker - Application PWA & NLP](https://github.com/gabrielorsatti/Personnal-gym-tracker)
-Développement d'une application complète de suivi de performance sportive utilisant une architecture Full-Stack moderne.
-* **Moteur NLP :** Intégration de modèles Llama 3.3 et Mistral Small pour l'extraction de données structurées à partir de texte libre (français). Implémentation de parseurs spécialisés (musculation et nutrition) avec validation JSON stricte.
-* **Architecture logicielle :** Interface `StorageAdapter` permettant une transition transparente entre le stockage local (LocalStorage) et le cloud (Supabase/PostgreSQL).
-* **Frontend :** Développement sous React 18 et TypeScript, utilisation de Recharts pour la visualisation dynamique des courbes de progression (volume, intensité, records).
+## Gym Track : Performance & Social-First PWA
+
+Gym Track est une plateforme Full-Stack moderne dédiée au suivi de performance athlétique.
+
+* **Coach IA (Stéphane) :** Analyse intelligente via Llama 3.3. Reconnaissance des splits (PPL, Upper/Lower) et conseils techniques sur la surcharge progressive.
+* **Écosystème Social :** Flux d'activité "Strava-style" avec Kudos, commentaires, notifications en temps réel et partage de profils.
+* **Green IT & Éthique :** Dashboard d'impact écologique transparent (CO2, eau, énergie) sourcé ADEME, traduisant la consommation IA en équivalences concrètes.
+* **Stack Technique :** React 18, TypeScript, Supabase (PostgreSQL, Storage, RLS) et Recharts pour la visualisation de données.
+* **Expérience Mobile :** PWA optimisée pour une installation native, garantissant fluidité et confidentialité des données.
 
 #### [Cadrage politique des VSS à l'Assemblée Nationale](https://github.com/gabrielorsatti/projet_eco_socio)
 Analyse quantitative des débats parlementaires (2017-2025) sur les violences sexistes et sexuelles (10 000 prises de parole).
