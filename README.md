@@ -19,8 +19,7 @@
 
 ### Projets de Recherche et Développement
 
-#### [Personal Gym Tracker - Application PWA & NLP](https://github.com/gabrielorsatti/Personnal-gym-tracker)
-## Gym Track : Performance & Social-First PWA
+#### [Gym Track : Performance & Social-First PWA & NLP](https://github.com/gabrielorsatti/Personnal-gym-tracker)
 
 Gym Track est une plateforme Full-Stack moderne dédiée au suivi de performance athlétique.
 
