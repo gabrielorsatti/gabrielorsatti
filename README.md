@@ -18,7 +18,7 @@
 ---
 
 ### Projets de Recherche et Développement
-[Voir le site web officiel de Gym Track](https://gym-track-landing-2iys.vercel.app/)]
+[Voir le site web officiel de Gym Track](https://gym-track-landing-2iys.vercel.app/)
 #### [Gym Track : Performance & Social-First PWA & NLP](https://github.com/gabrielorsatti/Personnal-gym-tracker)
 
 Gym Track est une plateforme Full-Stack moderne dédiée au suivi de performance athlétique.
