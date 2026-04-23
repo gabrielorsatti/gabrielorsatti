@@ -18,10 +18,10 @@
 ---
 
 ### Projets de Recherche et Développement
-[Voir le site web officiel de Gym Track](https://gym-track-landing-2iys.vercel.app/)
-#### [Gym Track : Performance & Social-First PWA & NLP](https://github.com/gabrielorsatti/Personnal-gym-tracker)
+[Voir le site web officiel de Stephane](https://gym-track-landing-2iys.vercel.app/)
+#### [Stephane : Performance & Social-First PWA & NLP](https://github.com/gabrielorsatti/Personnal-gym-tracker)
 
-Gym Track est une plateforme Full-Stack moderne dédiée au suivi de performance athlétique.
+Stephane est une plateforme Full-Stack moderne dédiée au suivi de performance athlétique.
 
 * **Coach IA (Stéphane) :** Analyse intelligente via Llama 3.3. Reconnaissance des splits (PPL, Upper/Lower) et conseils techniques sur la surcharge progressive.
 * **Écosystème Social :** Flux d'activité "Strava-style" avec Kudos, commentaires, notifications en temps réel et partage de profils.
