@@ -19,7 +19,7 @@
 
 ### Projets de Recherche et Développement
 [Voir le site web officiel de Stephane](https://gym-track-landing-2iys.vercel.app/)
-#### [Stephane : Performance & Social-First PWA & NLP]((https://github.com/gabrielorsatti/stephane-ia-app))
+#### [Stephane : Performance & Social-First PWA & NLP](https://github.com/gabrielorsatti/stephane-ia-app)
 
 Stephane est une plateforme Full-Stack moderne dédiée au suivi de performance athlétique.
 
